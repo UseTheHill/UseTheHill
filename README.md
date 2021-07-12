@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kaytemcdonough@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T-7m381P-ez4lvrgHsXBDFS-13THsuz9/view?usp=sharing](https://drive.google.com/file/d/1T-7m381P-ez4lvrgHsXBDFS-13THsuz9/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/gview?url=https://github.com/UseTheHill/kayte_portfolio/raw/main/McDonough.Resume.pdf)
 
 - ⚡ Fun fact **My first computer game I remember playing was Amazon Trail.**
 
