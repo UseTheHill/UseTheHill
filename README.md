@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usethehill&label=Profile%20views&color=0e75b6&style=flat" alt="usethehill" /> </p>
 
-- 🔭 I’m currently working on [portfolio_kmcdonough](https://kayte-portfolio.herokuapp.com/)
+## [My Portfolio](https://kayte-portfolio.herokuapp.com/)
 
 - 🌱 I’m currently learning **Nodejs**
 
