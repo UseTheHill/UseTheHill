@@ -7,7 +7,7 @@
 
 ## [My Portfolio](https://kayte-portfolio.herokuapp.com/)
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently a Junior Developer with Axis Cross Media and I love it.
 
 - 👨‍💻 All of my projects are available at [https://github.com/UseTheHill](https://github.com/UseTheHill)
 
