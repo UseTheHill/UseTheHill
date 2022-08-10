@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kayte McDonough</h1>
 <h3 align="center">A Junior Developer from Lake Orion, MI</h3>
-<img src="assets/Gold Modern Good Morning (Banner (Landscape).png" alt="image with name Kayte McDonough on it." style="border-radius: 24px"><br>
+<img src="assets/Gold Modern Good Morning (Banner (Landscape).png" alt="image with name Kayte McDonough on it."><br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usethehill&label=Profile%20views&color=0e75b6&style=flat" alt="usethehill" /> </p>
