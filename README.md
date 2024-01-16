@@ -6,7 +6,7 @@
 
 ## [My Portfolio](https://kayte-portfolio.herokuapp.com/)
 
-- 🌱 I’m currently a Junior Developer with Great Lakes Psychology Group and I love it. Dream Job.
+- 🌱 I’m currently a Developer with Great Lakes Psychology Group and I love it. Dream Job.
 
 - 👨‍💻 All of my projects are available at [https://github.com/UseTheHill](https://github.com/UseTheHill)
 
