@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kayte McDonough</h1>
-<h3 align="center">A Junior Developer from Lake Orion, MI</h3><br>
+<h3 align="center">A Developer from Lake Orion, MI</h3><br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usethehill&label=Profile%20views&color=0e75b6&style=flat" alt="usethehill" /> </p>
